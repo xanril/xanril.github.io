@@ -1618,6 +1618,19 @@
 		clear: both;
 	}
 
+	.companies li {
+		margin-bottom: 2em;
+		clear: both;
+	}
+
+	.companies li span{
+		float: right;
+	}
+
+	.companies li h4{
+		float: left;
+	}
+
 	.label-ops {
 		display: inline;
 		padding: .25em .6em;
