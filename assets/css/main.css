@@ -1592,3 +1592,63 @@
 		body.is-loading #footer {
 			opacity: 0;
 		}
+
+/* From onepagesunny */
+	
+	.no-list{
+		margin: 0px;
+		padding: 0px;
+		list-style: none;
+	}
+
+	.work li{
+		border-bottom: 1px solid #333333;
+		margin-bottom: 2em;
+	}
+
+	.work li span{
+		float: right;
+	}
+
+	.work li h4{
+		float: left;
+	}
+
+	.work li p{
+		clear: both;
+	}
+
+	.label-ops {
+		display: inline;
+		padding: .25em .6em;
+		font-size: 75%;
+		font-weight: 500;
+		line-height: 1;
+		color: #ffffff;
+		text-align: center;
+		white-space: nowrap;
+		vertical-align: baseline;
+		border-radius: .25em;
+	}
+
+	.label-info-ops {
+		background-color: #5bc0de;
+	}
+
+	.label-default-ops {
+		background-color: #999999;
+	}
+
+	.label-danger-ops {
+		background-color: #d9534f;
+	}
+
+	.label-success-ops {
+		background-color: #5cb85c;
+	}
+
+	.label-warning-ops {
+		background-color: #f0ad4e;
+	}
+
+/* End of onepagesunny */
